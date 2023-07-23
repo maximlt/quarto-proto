@@ -24,12 +24,10 @@ website:
   page-footer: "© Copyright 2023 Holoviz contributors"
 format:
   html:
-    theme: materia
+    theme: cosmo
     css: styles.css
     # code-fold: true
     code-copy: true
     max-width: 1200px
     toc: true
 highlight-style: github
-
-
