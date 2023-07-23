@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/panel_release_0.12/index.html",
+      "/posts/hv_release_1.13/index.html",
+      "/posts/panel_release_0.14/index.html",
+      "/posts/survey_2022/index.html",
+      "/posts/hugging_face_template/index.html",
+      "/posts/hvplot_release_0.8/index.html",
+      "/posts/panel_release_0.13/index.html",
+      "/posts/ds_release_0.13/index.html",
+      "/posts/panel_release_0.11/index.html",
+      "/posts/panel_release_0.10/index.html",
+      "/posts/panel_release_0.8/index.html",
+      "/posts/panel_release_0.7/index.html",
+      "/posts/pyviz_holoviz/index.html",
+      "/posts/panel_announcement/index.html",
+      "/posts/hvplot_announcement/index.html",
+      "/posts/gv_release_1.5/index.html",
+      "/posts/hv_release_1.10/index.html"
+    ]
+  }
+]
